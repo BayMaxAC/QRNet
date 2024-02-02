@@ -15,3 +15,5 @@ logs/ScanNet.log : Training log applied to the ScanNet dataset.
 |:-------:|:-----------------:|:-------------------:|:------------------------:|
 |  NYUv2  |      64.0211      |       85.6046       |          48000           |
 | ScanNet |      73.6758      |       90.2324       |          511846          |
+
+## The source code will be released  upon acceptance
