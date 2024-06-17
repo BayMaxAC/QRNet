@@ -11,9 +11,9 @@ Due to the size of the log file, a download method will be provided [[Password: 
 logs/NYUv2.log : Training log applied to the NYUv2 dataset.  
 logs/ScanNet.log : Training log applied to the ScanNet dataset.  
 
-| Dataset | Detailed Accuracy | Structural Accuracy | Number of steps achieved |
-|:-------:|:-----------------:|:-------------------:|:------------------------:|
-|  NYUv2  |      64.0211      |       85.6046       |          48000           |
-| ScanNet |      73.6758      |       90.2324       |          511846          |
+| Dataset | Detailed Accuracy | Structural Accuracy |
+|:-------:|:-----------------:|:-------------------:|
+|  NYUv2  |      64.0211      |       85.6046       |
+| ScanNet |      73.6758      |       90.2324       | 
 
 ## The source code will be released  upon acceptance
